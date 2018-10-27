@@ -43,6 +43,7 @@ git checkout -b branch-baruku
 - buat folder baru dengan username kamu dan isi folder dengan projek terbaikmu
 - Tambahkan username github pada kontributor dibawah ya
 
+
 ### Commit dan Push
 ```
 git add .
@@ -58,6 +59,7 @@ dan buat Pull Request ke branch master
 - [@ffadilaputra](https://github.com/ffadilaputra)
 - [@hilalarsa](https://github.com/hilalarsa)
 - [@Yudhst](https://github.com/Yudhst)
+- [@Noiid](https://github.com/Noiid)
 
 ## :octocat: Organization
 ![](res/item.png)
